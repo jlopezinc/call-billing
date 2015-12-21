@@ -9,11 +9,11 @@ var countryInfoDefinition = {
         type: String,
         required: true
     },
-    cost: {
+    rate: {
         type: Number,
         required: true
     },
-    prefixes: [String]
+    phoneStartsWith: [String]
 };
 
 // Call schema
