@@ -1,7 +1,7 @@
 {
   "name": "call-billing",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "node ./bin/www",
     "test": "mocha app.test.js -w",
